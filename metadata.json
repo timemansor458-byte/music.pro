@@ -1,0 +1,6 @@
+{
+  "name": "Vibrant Music",
+  "description": "تطبيق موسيقى عصري ومتكامل بنمط Vibrant Palette مع مشغل متطور، معادل صوت احترافي، كلمات متزامنة ومؤثرات بصرية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
